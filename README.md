@@ -10,7 +10,7 @@ Link: [notebook](https://github.com/KubaPlesniak/Machine-Learning-1/blob/main/li
 
 <b> Assignment 3 Decision trees </b>
 
-Link: [notebook]()
+Link: [notebook](https://github.com/KubaPlesniak/Machine-Learning-1/blob/6cea0e9da26c2a6a878126e3f7b595cf654ba9e5/tree/055Decision_trees_Exercises.ipynb)
 
 <b> Assignment 4 	Ensemble </b>
 
@@ -22,4 +22,4 @@ Link: [notebook](https://github.com/KubaPlesniak/Machine-Learning-1/blob/main/sv
 
 <b> Assignment 6 NLP </b>
 
-Link: [notebook]()
+Link: [notebook](https://github.com/KubaPlesniak/Machine-Learning-1/blob/6cea0e9da26c2a6a878126e3f7b595cf654ba9e5/NLP/106_NLP_Exercises.ipynb)
